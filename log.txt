@@ -1,0 +1,45 @@
+Clocker> (2020-08-10 18:40:01.734254) clocking in..
+[Selenium] (2020-08-10 18:40:01.734810) opening browser and logging in..
+[Selenium] (2020-08-10 18:40:03.262303) inputting credentials
+[Selenium] (2020-08-10 18:40:19.507612) waiting for login & alert modal..
+[Selenium] (2020-08-10 18:40:20.752089) modal closed
+[Selenium] (2020-08-10 18:40:20.752324) login success!
+[Selenium] (2020-08-10 18:40:22.840430) clock in successfully!
+[Selenium] (2020-08-10 18:56:35.658701) clocking in..
+[Selenium] (2020-08-10 18:56:35.659046) opening browser and logging in..
+[Selenium] (2020-08-10 18:56:37.258636) inputting credentials
+[Selenium] (2020-08-10 18:56:53.407075) waiting for login & alert modal..
+[Selenium] (2020-08-10 18:56:54.645990) modal closed
+[Selenium] (2020-08-10 18:56:54.646227) login success!
+[Selenium] (2020-08-10 18:57:26.743291) clocking in..
+[Selenium] (2020-08-10 18:57:26.743856) opening browser and logging in..
+[Selenium] (2020-08-10 18:57:28.304450) inputting credentials
+[Selenium] (2020-08-10 18:57:44.445360) waiting for login & alert modal..
+[Selenium] (2020-08-10 18:57:45.705509) modal closed
+[Selenium] (2020-08-10 18:57:45.706003) login success!
+[Selenium] (2020-08-10 18:58:46.096827) clocking in..
+[Selenium] (2020-08-10 18:58:46.097200) opening browser and logging in..
+[Selenium] (2020-08-10 18:58:47.582580) inputting credentials
+[Selenium] (2020-08-10 18:59:03.771543) waiting for login & alert modal..
+[Selenium] (2020-08-10 18:59:04.986558) modal closed
+[Selenium] (2020-08-10 18:59:04.986787) login success!
+[Selenium] (2020-08-10 18:59:07.152630) selected by visible text: MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+[Selenium] (2020-08-10 18:59:17.173915) clock in successfully!
+[Selenium] (2020-08-10 19:01:19.694297) clocking in..
+[Selenium] (2020-08-10 19:01:19.694755) opening browser and logging in..
+[Selenium] (2020-08-10 19:01:21.254007) inputting credentials
+[Selenium] (2020-08-10 19:01:37.510895) waiting for login & alert modal..
+[Selenium] (2020-08-10 19:01:38.755677) modal closed
+[Selenium] (2020-08-10 19:01:38.755991) login success!
+[Selenium] (2020-08-10 19:01:40.902811) selected by visible text: MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+[Selenium] (2020-08-10 19:01:50.921564) clock in successfully!
+[Selenium] (2020-08-10 19:05:04.953247) clocking in..
+[Selenium] (2020-08-10 19:05:04.953609) opening browser and logging in..
+[Selenium] (2020-08-10 19:05:07.514046) inputting credentials
+[Selenium] (2020-08-10 19:05:23.801610) waiting for login & alert modal..
+[Selenium] (2020-08-10 19:05:25.023613) modal closed
+[Selenium] (2020-08-10 19:05:25.024229) login success!
+[Selenium] (2020-08-10 19:05:27.223321) selected by visible text: MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+[Selenium] (2020-08-10 19:05:37.240662) clock in successfully!
+[Selenium] (2020-08-10 19:06:07.468459) browser closed successfully
+[Selenium] (2020-08-10 19:06:07.596775) clocked in successfully!
