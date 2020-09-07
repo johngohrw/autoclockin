@@ -43,3 +43,56 @@ Clocker> (2020-08-10 18:40:01.734254) clocking in..
 [Selenium] (2020-08-10 19:05:37.240662) clock in successfully!
 [Selenium] (2020-08-10 19:06:07.468459) browser closed successfully
 [Selenium] (2020-08-10 19:06:07.596775) clocked in successfully!
+Clocker> (2020-09-08 00:24:39.447658) Clocking in with parameters:
+Clocker> (2020-09-08 00:24:58.406626) Clocking in with parameters:
+Clocker> (2020-09-08 00:25:40.826031) Clocking in with parameters:
+Clocker> (2020-09-08 00:26:12.939155) Clocking in with parameters:
+Clocker> (2020-09-08 00:26:24.837176) Clocking in with parameters:
+Clocker> (2020-09-08 00:27:19.355818) Clocking in with parameters:
+Clocker> (2020-09-08 00:27:19.357817)  - procedure : 	in
+Clocker> (2020-09-08 00:27:19.358818)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:27:19.359819)  - log : 	log
+Clocker> (2020-09-08 00:28:44.988091) Clocking in with parameters:
+Clocker> (2020-09-08 00:28:44.988091)  - procedure : 	in
+Clocker> (2020-09-08 00:28:44.989088)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:28:44.989088)  - log : 	log
+Clocker> (2020-09-08 00:29:03.251897) Clocking in with parameters:
+Clocker> (2020-09-08 00:29:03.252897)  - procedure : 	in
+Clocker> (2020-09-08 00:29:03.252897)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:29:03.253897)  - log : 	log
+Clocker> (2020-09-08 00:29:33.311697) Clocking in with parameters:
+Clocker> (2020-09-08 00:29:33.311697)  - procedure : 	in
+Clocker> (2020-09-08 00:29:33.312696)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:29:33.313698)  - log : 	log
+Clocker> (2020-09-08 00:29:46.101056) Clocking in with parameters:
+Clocker> (2020-09-08 00:29:46.102056)  - procedure : 	in
+Clocker> (2020-09-08 00:29:46.103055)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:29:46.104056)  - log : 	log
+Clocker> (2020-09-08 00:30:07.230753) Clocking in with parameters:
+Clocker> (2020-09-08 00:30:07.232752)  - procedure : 	in
+Clocker> (2020-09-08 00:30:07.234752)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:30:07.235754)  - log : 	log
+Clocker> (2020-09-08 00:31:22.577778) Clocking in with parameters:
+Clocker> (2020-09-08 00:31:22.578777)  - procedure : 	in
+Clocker> (2020-09-08 00:31:22.578777)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:31:22.579778)  - log : 	log
+Clocker> (2020-09-08 00:32:01.798324) Clocking in with parameters:
+Clocker> (2020-09-08 00:32:01.799325)  - procedure : 	in
+Clocker> (2020-09-08 00:32:01.799325)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:32:01.800326)  - log : 	log
+Clocker> (2020-09-08 00:32:04.997860) clocking in..
+Clocker> (2020-09-08 00:32:04.997860) opening browser and logging in..
+Clocker> (2020-09-08 00:32:06.479224) inputting credentials
+Clocker> (2020-09-08 00:32:41.958387) Clocking in with parameters:
+Clocker> (2020-09-08 00:32:41.959388)  - procedure : 	in
+Clocker> (2020-09-08 00:32:41.960388)  - clockInValue : 	MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:32:41.961388)  - log : 	log
+Clocker> (2020-09-08 00:32:44.966650) clocking in..
+Clocker> (2020-09-08 00:32:44.966650) opening browser and logging in..
+Clocker> (2020-09-08 00:32:46.380612) inputting credentials
+Clocker> (2020-09-08 00:33:02.632416) waiting for login & alert modal..
+Clocker> (2020-09-08 00:33:03.687531) modal closed
+Clocker> (2020-09-08 00:33:03.687838) login success!
+Clocker> (2020-09-08 00:33:05.804437) selected by visible text: MANAGEMENT - DIGITAL LAB FLEXI 2 (MON-FRI)(9.00AM - 6.00PM)
+Clocker> (2020-09-08 00:33:06.821414) clock in button click!
+Clocker> (2020-09-08 00:33:06.821414) waiting for alert to close it..

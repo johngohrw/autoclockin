@@ -19,7 +19,7 @@ password = 'ofed1663'
 logfile = 'log.txt'
 bot_token = '1305660558:AAFl_Eh_v_SY9fW6SbX49mRHDABjhqwY8hs'
 bot_chatID = '266785130'
-driver_path = './chromedriver'
+driver_path = r'C:/Users/rengwu/Desktop/Projects/Autoclockin/chromedriver_win32/chromedriver.exe'
 
 # globals
 delay = 5
@@ -227,9 +227,9 @@ if __name__ == "__main__":
     logging = arguments.log
 
     debug_print('Clocking in with parameters:')
-    debug_print(' - procedure : \t', procedure)
-    debug_print(' - clockInValue : \t', clockInValue)
-    debug_print(' - log : \t', logging)
+    debug_print(' - procedure : \t' + procedure)
+    debug_print(' - clockInValue : \t' + clockInValue)
+    debug_print(' - log : \t' + logging)
 
     if (logging == 'log'):
         log = True
